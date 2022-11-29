@@ -1,0 +1,250 @@
+{"Niveles":
+    {  
+        "nivel_uno":[
+            {
+            "imagen_fondo":"C:/Users/Ares/Cursada Lab 1/forest/all.png",
+
+            "decoracion": {   
+                "Skull":{ 
+                    "cantidad":1,         
+                    "pos_x" : 600,
+                    "pos_y" : 548 
+                    },
+                "Arbol":{
+                    "cantidad":1,         
+                    "pos_x" : 800,
+                    "pos_y" : 380
+                }    
+            }, 
+            "plataformas":
+            {
+                    "cantidad":21,                       
+                    "pos_x": 100,
+                    "pos_y": 100,   
+                    "tipo":1                           
+            },          
+            "Muros":
+            {
+                    "cantidad":26,
+                    "pos_x": 0,
+                    "pos_y": 0
+                     
+            },        
+            "Techos":
+            {
+                    "cantidad":30,                       
+                    "pos_x": 0,
+                    "pos_y": 0,
+                    "tipo":1                                 
+            },          
+            "loot":
+            {       
+                "cantidad":10,                  
+                "pos_x":10,
+                "pos_y":10       
+            }, 
+            "portal":
+            {
+                "cantidad": 0,
+                "pos_x": 1090,
+                "pos_y": 156
+            },         
+            "Enemigo":{
+                "lagarto":{        
+                "cantidad":2,                
+                "pos_x":100,
+                "pos_y":100,
+                "speed_walk":12,
+                "speed_run":17,
+                "gravity":16                  
+                },
+                "pork":{
+                "cantidad":1,                
+                "pos_x":100,
+                "pos_y":100,
+                "speed_walk":12,
+                "speed_run":17,
+                "gravity":16}
+        },
+            
+            "Player":
+            {       
+                    "cantidad":1,                           
+                    "pos_x":15,
+                    "pos_y":500
+            },
+          
+            "Text":
+            {       
+                    "cantidad":1,                          
+                    "pos_x":12,
+                    "pos_y":12
+            },
+            "Menu":
+            {       
+                    "cantidad":1,                      
+                    "pos_x":22,
+                    "pos_y":33
+            }
+        }
+        ],
+        "nivel_dos":[
+            {
+            "imagen_fondo":"C:/Users/Ares/Cursada Lab 1/mountain/all.png",
+            
+            "decoracion": {   
+                "Skull":{ 
+                    "cantidad":1,         
+                    "pos_x" : 600,
+                    "pos_y" : 548 
+                    },
+                "Arbol":{
+                    "cantidad":1,         
+                    "pos_x" : 800,
+                    "pos_y" : 380
+                }    
+            }, 
+            "plataformas":
+            {
+                    "cantidad":21,                       
+                    "pos_x": 100,
+                    "pos_y": 100,   
+                    "tipo":1                           
+            },          
+            "muros":
+            {
+                    "cantidad":26,
+                    "pos_x": 0,
+                    "pos_y": 0
+                     
+            },        
+            "techos":
+            {
+                    "cantidad":30,                       
+                    "pos_x": 0,
+                    "pos_y": 0,
+                    "tipo":1                                 
+            },          
+            "loot":
+            {       
+                "cantidad":1,                  
+                "pos_x":10,
+                "pos_y":10       
+            }, 
+            "portal":
+            {
+                "cantidad": 0,
+                "pos_x": 1090,
+                "pos_y": 156
+            },         
+            "enemigo":
+            {        
+                    "cantidad":3,                
+                    "pos_x":100,
+                    "pos_y":100,
+                    "speed_walk":12,
+                    "speed_run":17,
+                    "gravity":16                  
+            },
+            "player":
+            {       
+                    "cantidad":1,                           
+                    "pos_x":15,
+                    "pos_y":500
+            },
+          
+            "text":
+            {       
+                    "cantidad":1,                          
+                    "pos_x":12,
+                    "pos_y":12
+            },
+            "menu":
+            {       
+                    "cantidad":1,                      
+                    "pos_x":22,
+                    "pos_y":33
+            }
+        }
+        ],
+        "nivel_tres":[
+            {
+            "imagen_fondo":"C:/Users/Ares/Cursada Lab 1/Mundo.jpg",
+            
+            "decoracion": {   
+                "Skull":{ 
+                    "cantidad":1,         
+                    "pos_x" : 600,
+                    "pos_y" : 548 
+                    },
+                "Arbol":{
+                    "cantidad":1,         
+                    "pos_x" : 800,
+                    "pos_y" : 380
+                }    
+            }, 
+            "plataformas":
+            {
+                    "cantidad":21,                       
+                    "pos_x": 100,
+                    "pos_y": 100,   
+                    "tipo":1                           
+            },          
+            "Muros":
+            {
+                    "cantidad":26,
+                    "pos_x": 0,
+                    "pos_y": 0
+                     
+            },        
+            "Techos":
+            {
+                    "cantidad":30,                       
+                    "pos_x": 0,
+                    "pos_y": 0,
+                    "tipo":1                                 
+            },          
+            "loot":
+            {       
+                "cantidad":1,                  
+                "pos_x":10,
+                "pos_y":10       
+            }, 
+            "portal":
+            {
+                "cantidad": 0,
+                "pos_x": 1090,
+                "pos_y": 156
+            },         
+            "Enemigo":
+            {        
+                    "cantidad":3,                
+                    "pos_x":100,
+                    "pos_y":100,
+                    "speed_walk":12,
+                    "speed_run":17,
+                    "gravity":16                  
+            },
+            "Player":
+            {       
+                    "cantidad":1,                           
+                    "pos_x":15,
+                    "pos_y":500
+            },
+          
+            "Text":
+            {       
+                    "cantidad":1,                          
+                    "pos_x":12,
+                    "pos_y":12
+            },
+            "Menu":
+            {       
+                    "cantidad":1,                      
+                    "pos_x":22,
+                    "pos_y":33
+            }
+        }
+        ]    
+    }
+}
